@@ -23,3 +23,6 @@ When passing an object to the playSong() procedure, you should use the following
     Octaves range from 3 to 6 but the 3rd octave may not produce sound on many machines.
     
     an example note is "2,a,4", which will play the 4th A (440Hz) for 2 beats.
+
+
+I have included the tetris theme and part of the supermariobros. (overworld) theme in the songs library file as an example of how this library may be used.
