@@ -26,3 +26,6 @@ When passing an object to the playSong() procedure, you should use the following
 
 
 I have included the tetris theme and part of the supermariobros. (overworld) theme in the songs library file as an example of how this library may be used.
+
+
+Feel free to change the names of any files once you have downloaded them, but you'll also have to change the import in the songs file.
